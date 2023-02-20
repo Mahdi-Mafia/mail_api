@@ -112,5 +112,14 @@ local response = send_email(sender_email, sender_password, receiver_email, subje
 print(response)
 ```
 
+## 🛠
+Python, Lua, Curl
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
 
 
